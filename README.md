@@ -1,15 +1,15 @@
 # Trevors-Cleanup-Script
-This repository contains batch files used to automate computer cleanup using built in Windows utilities.
+This repository contains batch files used to automate computer cleanup using built in Windows utilities. Made for Windows 10, will also probably work on Windows 8 and 8.1.
 
 ## User Manual:
-   *Download the Zip file, the whole repository, or the TCS folder
-   *Extract the files anywhere you'd like
-   *Double click the "Run TCS V2.0" Shortcut
-   *When asked Y/N type "Y" and hit enter
-   *Everytime the script restarts you will need to login
-   *Later in the script an Admin prompt will pop up, please hit "Yes"
-   *Wait until the script says its done
-   *Make sure to hit ENTER to close the script!
+   * Download the Zip file, the whole repository, or the TCS folder
+   * Extract the files anywhere you'd like
+   * Double click the "Run TCS V2.0" Shortcut
+   * When asked Y/N type "Y" and hit enter
+   * Everytime the script restarts you will need to login
+   * Later in the script an Admin prompt will pop up, please hit "Yes"
+   * Wait until the script says its done
+   * Make sure to hit ENTER to close the script!
 ## Utilities Used
 
 #### Temporary File Cleaner
