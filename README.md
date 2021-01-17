@@ -25,8 +25,8 @@ This repository contains batch files used to automate computer cleanup using bui
    * dism /online /cleanup-image /restorehealth
    
 # Git Command
-`git clone https://github.com/DroTron/Numerical-Methods-Algorithms`
+`git clone https://github.com/DroTron/Trevors-Cleanup-Script`
 *  Clones entire repository
 *  add `~/FOLDER/SUBFOLDER` after PROGRAM.m to clone to specific folder
-   * Ex: `git clone https://github.com/DroTron/Numerical-Methods-Algorithms ~/NumericalMethods`
+   * Ex: `git clone https://github.com/DroTron/Trevors-Cleanup-Scripts ~/Trevors-Cleanup-Script`
    * to clone repository to a folder in home named NumericalMethods
