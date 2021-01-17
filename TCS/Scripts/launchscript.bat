@@ -1,2 +1,2 @@
 @ECHO OFF
-@start %~d0%\TTK\Scripts\TTK_DISM.bat
+@start TCS\TTK_DISM.bat
