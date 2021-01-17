@@ -17,9 +17,9 @@ reg add HKCU\Software\Microsoft\Windows\CurrentVersion\Run /v "%~n0" /d "%~dpnx0
 echo two >%~dp0current.txt
 ::Section 1
 ECHO ==========================
-ECHO Please wait... Setting Time Zone to MST
-tzutil /s "Mountain Standard Time"
-ECHO Complete!
+ECHO Executing CHKDSK, CHKDSK will run during restart
+chkdsk /f
+ECHO Complete! CHKDSK will run after restart
 ECHO ==========================
 ECHO Please wait... Cleaning Temporary Files
 cleanmgr /sagerun:11
@@ -29,10 +29,6 @@ ECHO ==========================
 ECHO Please wait... Defragmenting C Drive
 defrag c: 
 ECHO Complete!
-ECHO ==========================
-ECHO Executing CHKDSK, CHKDSK will run during restart
-chkdsk /f
-ECHO Complete! CHKDSK will run after restart
 ECHO ==========================
 ECHO Executing SFC
 sfc /scannow
