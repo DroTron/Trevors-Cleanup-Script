@@ -12,6 +12,9 @@ This repository contains batch files used to automate computer cleanup using bui
    * Wait until the script says its done
    * Make sure to hit ENTER to close the script!
 
+## Video Instructions
+   * `https://youtu.be/Q8NXnG8z5IE`
+
 ## Utilities Used
 #### Temporary File Cleaner
    * cleanmgr
