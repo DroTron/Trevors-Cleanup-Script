@@ -1,12 +1,6 @@
 # Trevors-Cleanup-Script
 This repository contains batch files used to automate computer cleanup using built in Windows utilities. Made for Windows 10, will also probably work on Windows 8 and 8.1.
 
-## TCS (Trevor's Cleanup Script)
-   * Cleanup script to help optimize Windows performance
-
-## TCS-WUC (Trevor's Cleanup Script - Windows Update Cache Cleanup)
-   * Stops Windows services and deletes the Windows update cache
-
 ## User Manual
    * Download the repository
    * Extract the files
